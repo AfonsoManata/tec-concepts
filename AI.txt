@@ -1,0 +1,30 @@
+AI Concepts
+
+Large Language Model(LLM):
+Is the brain of the model trained with bilions of words.
+They can predict the next word.
+
+Multimodality:
+Models can process and generate different types of data.
+Text, audio, video etc... For example: Amazon Nova
+
+Tokens: Units (Chunks of words) that AI processes.
+Context Window: Short term memory of a conversation
+
+RAG(Retrievel-Augmented Generation):
+AI has a reference book where it can verify the information to stop hallucinations.
+
+Fine-tuning:
+Training the AI model on a specific niche area.
+
+AI agents:
+They can use tools, browse the web write code etc... fully independent
+
+MCP (Model Context Protocol):
+Allows models to connect universally with GitHub, Slack, local files, etc...
+
+Amazon Nova -> Very new model, high speed and low cost to enterprises
+Amazon Q -> AI assistant to developers
+Amazon Bedrock -> Help build AI apps single Api with multiple models
+
+
